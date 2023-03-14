@@ -21,7 +21,9 @@ export default function Header() {
         <h3>Set Design and Creative</h3>
       </div>
       <div className="right">
-        <NavLink to="/">Home</NavLink>
+        <NavLink exact to="/">
+          Home
+        </NavLink>
         <NavLink to="/clients">Clients</NavLink>
         <NavLink to="/contact">Contact</NavLink>
         {/* <NavLink to="/client">Clients</NavLink>
