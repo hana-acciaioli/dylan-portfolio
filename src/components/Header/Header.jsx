@@ -17,7 +17,7 @@ export default function Header() {
   return (
     <header>
       <div className="left">
-        <h2>DYLAN LASTNAME DESIGN</h2>
+        <h2>DYLAN LYNCH</h2>
         <h3>Set Design and Creative</h3>
       </div>
       <div className="right">

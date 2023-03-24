@@ -1,0 +1,9 @@
+.client-list {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.client-list a:hover {
+  color: var(--colorLightGrey);
+}
